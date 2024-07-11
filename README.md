@@ -2,7 +2,6 @@
 
 ### 📚 Interests
 
-- Coding
 - Biology
 - Medicine
 - Data Science
